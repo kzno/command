@@ -1,5 +1,4 @@
-```markdown
-<div align="center">
+>div align="center">
   <img src="/branding/command.png" alt="command ⌘" width="120" />
 </div>
 
@@ -8,7 +7,6 @@
 ### ✦ loadstring
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kzno/command/refs/heads/main/main.lua"))()
-
 ```
 
 ### command list
