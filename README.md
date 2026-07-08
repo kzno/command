@@ -2,9 +2,11 @@
   <img src="/branding/command.png" alt="command ⌘" width="120" />
 </div>
 
-**command** is a high-performance admin script designed for users who value aesthetics as much as utility. the script is engineered to remain out of your way until you need it. **command** features robust native support for infinite yield plugins (`.iy` and `.ux`).
+<br>
 
-### ✦ loadstring
+<p>**command** is a high-performance admin script designed for users who value aesthetics as much as utility. the script is engineered to remain out of your way until you need it. **command** features robust native support for infinite yield plugins (`.iy` and `.ux`).</p>
+
+# ✦ loadstring
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kzno/command/refs/heads/main/main.lua"))()
 ```
