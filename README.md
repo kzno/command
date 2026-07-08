@@ -8,7 +8,7 @@
 
 # loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kzno/command/refs/heads/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kzno/command/refs/heads/main/main.lua", true))()
 ```
 
 # command list
