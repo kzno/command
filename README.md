@@ -9,7 +9,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kzno/command/refs/heads/main/main.lua"))()
 ```
 
-### command list
+# command list
 
 <details>
 <summary><b>teleportation & waypoints</b></summary>
